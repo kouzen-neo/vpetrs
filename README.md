@@ -55,8 +55,8 @@ VPetRS renders on `zwlr_layer_surface_v1` instead, which fixes all four:
 ## Build
 
 ```bash
-git clone https://github.com/kouzen-neo/VPetRS.git
-cd VPetRS
+git clone https://github.com/kouzen-neo/vpetrs.git
+cd vpetrs
 cargo build --release --locked -p vpet-app
 # Binary: target/release/vpet-rs
 ```
